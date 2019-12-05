@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react": "experimental",
+    "react-dom": "experimental"
+  }
+}

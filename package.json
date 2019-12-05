@@ -1,0 +1,26 @@
+{
+  "name": "cra-template-wheeler-mode",
+  "version": "0.69.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "wheeler-mode",
+    "america",
+    "miller-lite"
+  ],
+  "description": "A Ken Wheeler inspired template for Create React App",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iansu/cra-template-wheeler-mode.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=8"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
